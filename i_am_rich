@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T09:19:11.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.9" etag="vdfVMCJoQcj6YFcoZFwh" type="github"><diagram id="T-QQ5eF1G6ch5GbVexMQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-06T09:24:57.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="PxhfnIS8bAaj5S-f8VJM" version="13.10.9" type="github">
+  <diagram id="T-QQ5eF1G6ch5GbVexMQ" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RtLeQNG-54oid5iggaIv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RtLeQNG-54oid5iggaIv-1" target="RtLeQNG-54oid5iggaIv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RtLeQNG-54oid5iggaIv-1" value="Material App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RtLeQNG-54oid5iggaIv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RtLeQNG-54oid5iggaIv-2" target="RtLeQNG-54oid5iggaIv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RtLeQNG-54oid5iggaIv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RtLeQNG-54oid5iggaIv-2" target="RtLeQNG-54oid5iggaIv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RtLeQNG-54oid5iggaIv-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RtLeQNG-54oid5iggaIv-2" target="RtLeQNG-54oid5iggaIv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RtLeQNG-54oid5iggaIv-2" value="Scaffold" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RtLeQNG-54oid5iggaIv-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RtLeQNG-54oid5iggaIv-4" target="RtLeQNG-54oid5iggaIv-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RtLeQNG-54oid5iggaIv-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RtLeQNG-54oid5iggaIv-4" target="RtLeQNG-54oid5iggaIv-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RtLeQNG-54oid5iggaIv-4" value="AppBar" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RtLeQNG-54oid5iggaIv-6" value="Color" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RtLeQNG-54oid5iggaIv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RtLeQNG-54oid5iggaIv-8" target="RtLeQNG-54oid5iggaIv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RtLeQNG-54oid5iggaIv-8" value="Center" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RtLeQNG-54oid5iggaIv-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RtLeQNG-54oid5iggaIv-10" target="RtLeQNG-54oid5iggaIv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RtLeQNG-54oid5iggaIv-10" value="Image" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RtLeQNG-54oid5iggaIv-12" value="Network Image" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RtLeQNG-54oid5iggaIv-15" value="Color" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RtLeQNG-54oid5iggaIv-17" value="Text" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
